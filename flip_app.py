@@ -198,4 +198,3 @@ with right:
 
 st.divider()
 st.caption("Tip: Add a contingency (10–15% of rehab) to avoid surprises, and rerun the deal.")
-
