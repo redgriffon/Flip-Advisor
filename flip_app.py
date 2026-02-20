@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.set_page_config(page_title="Flip Calculator", layout="wide")
+st.set_page_config(page_title="Flip-Advisor", layout="wide")
 
 def safe_div(a, b):
     return a / b if b else 0.0
@@ -198,3 +198,4 @@ with right:
 
 st.divider()
 st.caption("Tip: Add a contingency (10–15% of rehab) to avoid surprises, and rerun the deal.")
+
